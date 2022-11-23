@@ -1,0 +1,10 @@
+The given code will give Compilation Error
+This is because of 2 mistakes in code snippet
+Following are :
+1) In Function m() -> return type (Given) is Void
+   But it should be "void" as Java is case sensitive language
+
+2) In Function m() -> 2nd line inside it
+   the line should end with (semicolon) ; instead of :
+
+If these both problems are resolved then we will get O/P = 24
